@@ -1,0 +1,2 @@
+# general_novel_downlaod
+可配置规则的通用小说下载器
