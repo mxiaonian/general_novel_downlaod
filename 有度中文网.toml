@@ -1,0 +1,8 @@
+path = "C:/Users/xiaonian/Documents/С˵"
+url = "https://www.yodu.org/book/19969/"
+list_rule = "@@class=inline mb20@@id=chapterList"
+book_name_rule = "@class=mb15 lh1d2 oh"
+name_rule = "xpath://*[@id=\"mlfy_main_text\"]/h1"
+content_rule = "@id=mlfy_main_text"
+next_rule = "text=-->"
+wait = "1"

@@ -1,0 +1,7 @@
+path = "C:/Users/xiaonian/Documents/С˵"
+url = "https://69shu.biz/b/49986/"
+list_rule = "@@class=catalog@@id=catalog"
+name_rule = "@class=hide720"
+content_rule = "@class=txtnav"
+next_rule = ""
+wait = "1"
